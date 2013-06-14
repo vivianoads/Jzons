@@ -1,4 +1,4 @@
-/*
+﻿/*
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
@@ -22,6 +22,8 @@ public class LinhaComando {
         } 
 
 	System.out.println("Alguma modificação simples!");
+	
+	System.out.println("Meu time já jogou na 2ª Divisão do Campeonato Brasileiro");
         
     }
     
