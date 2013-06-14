@@ -21,7 +21,7 @@ public class LinhaComando {
             System.out.println("O time que Diego torce é o Corinthians\n");
         } 
 
-	System.out.println("Alguma modificação simples!");
+	
         
     }
     
